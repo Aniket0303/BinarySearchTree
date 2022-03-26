@@ -216,3 +216,101 @@ int main()
 	  }while(c=='Y'|| c=='y');
       return 0;
 }
+
+//******************************************************************************************************************
+
+/*OUTPUT
+
+
+         Menu
+         1.Create
+         2.Display
+         3.Inorder
+         4.Preorder
+         5.Postorder
+         6.Display All
+         Enter your choice(1-6): 1
+
+         Enter the data: 7
+
+         Do you want to continue(y/n): y
+
+         Menu
+         1.Create
+         2.Display
+         3.Inorder
+         4.Preorder
+         5.Postorder
+         6.Display All
+         Enter your choice(1-6): 1
+
+         Enter the data: 3
+
+         Do you want to continue(y/n): y
+
+         Menu
+         1.Create
+         2.Display
+         3.Inorder
+         4.Preorder
+         5.Postorder
+         6.Display All
+         Enter your choice(1-6): 1
+
+         Enter the data: 8
+
+         Do you want to continue(y/n): y
+
+         Menu
+         1.Create
+         2.Display
+         3.Inorder
+         4.Preorder
+         5.Postorder
+         6.Display All
+         Enter your choice(1-6): 1
+
+         Enter the data: 15
+
+         Do you want to continue(y/n): y
+
+         Menu
+         1.Create
+         2.Display
+         3.Inorder
+         4.Preorder
+         5.Postorder
+         6.Display All
+         Enter your choice(1-6): 1
+
+         Enter the data: 10
+
+         Do you want to continue(y/n): y
+
+         Menu
+         1.Create
+         2.Display
+         3.Inorder
+         4.Preorder
+         5.Postorder
+         6.Display All
+         Enter your choice(1-6): 1
+
+         Enter the data: 4
+
+         Do you want to continue(y/n): y
+
+         Menu
+         1.Create
+         2.Display
+         3.Inorder
+         4.Preorder
+         5.Postorder
+         6.Display All
+         Enter your choice(1-6): 6
+
+         Inorder sequence is:  3 4 7 8 10 15
+         preorder sequence is:  7 3 4 8 10 15
+         postorder sequence is:  3 4 8 10 15 7
+         Do you want to continue(y/n):
+*/
